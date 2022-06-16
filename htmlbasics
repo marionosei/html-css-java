@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible"
+content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>St. Benedict High School Grades</title>
+  Mr. Ade's students' grades at St. Benedict High School:
+</head>
+  <style>
+    table,th,td{
+      border: 1px solid black;
+    }
+  </style>
+<body>
+  <table width="100%">
+    <thead>
+      <tr>
+        <th>
+          Serial Number
+        </th>
+        <th>
+          Name
+        </th>
+        <th>
+          Subject 1
+        </th>
+        <th>
+          Score 1
+        </th>
+        <th>
+          Subject 2
+        </th>
+        <th>
+          Score 2
+        </th>
+        <th>
+          Subject 3
+        </th>
+        <th>
+          Score 3
+        </th>
+        <th>
+          Subject 4
+        </th>
+        <th>
+          Score 4
+        </th>
+        <th>
+          Subject 5
+        </th>
+        <th>
+          Score 5
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+      <td>111</td>
+      <td>AdeKunle</td>
+      <td>Mathematics</td>
+      <td>72</td>
+      <td>English</td>
+      <td>43</td>
+      <td>Physics</td>
+      <td>78</td>
+      <td>Chemistry</td>
+      <td>73</td>
+      <td>Biology</td>
+      <td>37</td>
+      </tr>
+      <tr>
+      <td>222</td>
+      <td>John</td>
+      <td>Mathematics</td>
+      <td>42</td>
+      <td>English</td>
+      <td>64</td>
+      <td>Physics</td>
+      <td>70</td>
+      <td>Chemistry</td>
+      <td>55</td>
+      <td>Biology</td>
+      <td>58</td>
+      </tr>
+      <tr>
+      <td>333</td>
+      <td>Peter</td>
+      <td>Mathematics</td>
+      <td>62</td>
+      <td>English</td>
+      <td>40</td>
+      <td>Physics</td>
+      <td>73</td>
+      <td>Chemistry</td>
+      <td>75</td>
+      <td>Biology</td>
+      <td>99</td>
+      </tr>
+      <tr>
+      <td>444</td>
+      <td>Rukayat</td>
+      <td>Mathematics</td>
+      <td>77</td>
+      <td>English</td>
+      <td>75</td>
+      <td>Physics</td>
+      <td>78</td>
+      <td>Chemistry</td>
+      <td>75</td>
+      <td>Biology</td>
+      <td>82</td>
+      </tr>
+      <tr>
+      <td>555</td>
+      <td>Paul</td>
+      <td>Mathematics</td>
+      <td>72</td>
+      <td>English</td>
+      <td>40</td>
+      <td>Physics</td>
+      <td>72</td>
+      <td>Chemistry</td>
+      <td>70</td>
+      <td>Biology</td>
+      <td>97</td>
+      </tr>
+      <tr>
+      <td>666</td>
+      <td>Victor</td>
+      <td>Mathematics</td>
+      <td>76</td>
+      <td>English</td>
+      <td>64</td>
+      <td>Physics</td>
+      <td>48</td>
+      <td>Chemistry</td>
+      <td>99</td>
+      <td>Biology</td>
+      <td>37</td>
+      </tr>
+      <tr>
+      <td>777</td>
+      <td>John</td>
+      <td>Mathematics</td>
+      <td>62</td>
+      <td>English</td>
+      <td>54</td>
+      <td>Physics</td>
+      <td>78</td>
+      <td>Chemistry</td>
+      <td>75</td>
+      <td>Biology</td>
+      <td>64</td>
+      </tr>
+      <tr>
+      <td>888</td>
+      <td>Doe</td>
+      <td>Mathematics</td>
+      <td>52</td>
+      <td>English</td>
+      <td>84</td>
+      <td>Physics</td>
+      <td>48</td>
+      <td>Chemistry</td>
+      <td>85</td>
+      <td>Biology</td>
+      <td>27</td>
+        <tr>
+      <td>999</td>
+      <td>Stephen</td>
+      <td>Mathematics</td>
+      <td>92</td>
+      <td>English</td>
+      <td>44</td>
+      <td>Physics</td>
+      <td>78</td>
+      <td>Chemistry</td>
+      <td>65</td>
+      <td>Biology</td>
+      <td>61</td>
+      </tr>
+      </tr>
+    </tbody>
+    <tfoot>
+    </tfoot>
+  </table>
+    
+</body>
+</html>
