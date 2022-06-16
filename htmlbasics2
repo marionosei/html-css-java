@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Form</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <form action="">
+    <div>
+      <label for="fname">First Name</label>
+      <input type="text">
+    </div>
+    <div>
+      <label for="lname">Last Name</label>
+      <input type="text" name="lname" id="lname">
+    </div>
+    <div>
+      <label for="email">Email</label>
+      <input type="email" name="email" id="email">
+    </div>
+    <div>
+      <label for="cars">Choose a Car:</label>
+      <select id="cars" name="cars">
+        <option value="volvo">Volvo</option>
+        <option value="fiat">Fiat</option>
+        <option value="tesla">Tesla</option>
+        <option value="toyota">Toyota</option>
+      </select>
+    </div>
+    <div>
+      <input type="checkbox"id="vehicle1" name="vehicle1" value="Bike">
+      <label for="vehicle1"> I have a bike</label><br>
+      <input type="checkbox" id="vehicle2" name="vehicle2" value="Car">
+      <label for="vehicle2"> I have a car</label><br>
+      <input type="checkbox" id="vehicle3" name="vehicle3" value="None">
+      <label for="vehicle3>"> I have neither</label>
+    </div>
+    <div>
+      <p>What is your favorite language?</p>
+      <input type="radio"id="lang1" name="lang1" value="HTML">
+      <label for="lang1"> HTML</label><br>
+      <input type="radio" id="lang2" name="lang2" value="CSS">
+      <label for="lang2"> CSS</label><br>
+      <input type="radio" id="lang3" name="lang3" value="Java">
+      <label for="lang3>"> Java</label>
+    </div>
+    <div>
+      <label for="css"> Upload a Document</label>
+      <input type="file" name="date" id="time">
+    </div>
+    <div>
+      <textarea name="comment">Enter text here...</textarea>
+      <input type="reset" value="reset"> <br> 
+      <input type="text" name="" placeholder="Type here..." id="">
+    </div>
+    <div>
+      <input type="submit" value="Submit">
+    </div>
+
+  </form>
+</body>
+
+</html>
